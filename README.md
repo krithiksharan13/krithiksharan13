@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Krithik Sharan<br>💼 A Data Analyst, with 1+ years of Experience<br>📰 I analyze data to predict trends and provide actionable insights 
+👋 Hi, I'm Krithik Sharan<br>💼 A Data Analyst, with 2+ years of Experience<br>📰 I analyze data to predict trends and provide actionable insights for businesses to work on
 
 
 ## 🌐 Socials:
