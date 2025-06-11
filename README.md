@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Krithik Sharan<br>💼 A Data Analyst, with 2+ years of Experience<br>📰 I analyze data to predict trends and provide actionable insights for businesses to work on
+👋 Hi, I'm Krithik Sharan<br>💼 A Data Analyst, with 2+ years of Experience, Currently working as a Data Analyst at Radiant Ventures<br>📰 I analyze data to predict trends, mitigate risks and provide actionable insights for businesses to work on
 
 
 ## 🌐 Socials:
